@@ -51,8 +51,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=coolstack-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolstack-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolstack-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
 
@@ -60,29 +59,7 @@
 
 <br/>
 
-## 🚀 Projects
 
-### [ClearTrade AI](https://github.com/coolstack-coder)
-**GenAI-Powered Investment Protection Platform**
-- Built a Generative AI tool that helps retail investors detect misinformation, pump-and-dump signals, and scam risks in real time, using NLP combined with the **Google Gemini API** for explainable analysis
-- Developed a **React** dashboard and chatbot with a **Flask** backend, integrating live market data and news sentiment APIs (Alpha Vantage, NewsAPI) for real-time risk scoring
-- Designed an AI advisor chatbot delivering personalized investment guidance and safer alternatives (ETFs, index funds, diversified mutual funds)
-- Implemented onboarding, risk-profiling, and portfolio dashboard features on SQLite, architected for production on **PostgreSQL**
-
-### Campus Event Management System
-**Web-Based Platform for Coordinating College Events**
-- Built with **JavaScript** and **Node.js** to streamline event registration, scheduling, and participant tracking
-- Built an organizer dashboard to manage logistics, track attendance, and send automated notifications
-- Implemented an admin panel for coordinators to publish events, monitor sign-ups, and generate participation reports
-
-<br/>
-
-## 🏅 Positions of Responsibility
-
-- **Associate General Secretary, Science & Technology (AGSEC)** — LNMIIT, Jaipur — Coordinated technical events, workshops, and student activities; managed planning, logistics, and execution
-- **Coordinator, Alumni Association** — LNMIIT, Jaipur — Organized alumni meets, networking sessions, and outreach activities between students and alumni
-
-<br/>
 
 ## 🌐 Connect With Me
 
@@ -96,6 +73,3 @@
 
 <br/>
 
-<div align="center">
-<sub>Built with pure SVG + SMIL — no JavaScript, no build step, 100% GitHub-native.</sub>
-</div>
