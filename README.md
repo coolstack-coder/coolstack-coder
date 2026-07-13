@@ -48,8 +48,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anmol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
 
@@ -71,6 +70,4 @@
 
 <br/>
 
-<div align="center">
-<sub>Built with pure SVG + SMIL — no JavaScript, no build step, 100% GitHub-native.</sub>
-</div>
+
