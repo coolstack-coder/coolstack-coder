@@ -1,15 +1,16 @@
 <!-- ════════════════════  HEADER  ════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a3093,100:ff2e63&height=220&section=header&text=Anmol%20Adwani&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Quant%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a3093,100:ff2e63&height=220&section=header&text=Anmol%20Adwani&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/coolstack-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF2E63&center=true&vCenter=true&width=640&lines=%3E+booting+anmol.exe+...;%3E+training+models+that+actually+ship;%3E+turning+chaos+into+clean+interfaces;%3E+reading+markets+with+machine+learning;%3E+status%3A+building+something+cool+%E2%9C%A8" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF2E63&center=true&vCenter=true&width=680&lines=%3E+booting+anmol.exe+...;%3E+building+agents+that+open+their+own+PRs;%3E+writing+Raft+from+scratch+in+Go;%3E+catching+attackers+in+real+time;%3E+status%3A+shipping+something+cool" alt="typing"/>
   </a>
 </p>
 
 <p align="center">
+  <a href="https://anmol-porfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/anmol-adwani-727ba72a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:anmoladwani100@gmail.com"><img src="https://img.shields.io/badge/Email-FF2E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=coolstack-coder&style=for-the-badge&color=6a3093&label=PROFILE+VIEWS" alt="views"/>
@@ -24,54 +25,104 @@
 
 ```ts
 const anmol = {
-  location:   "Jaipur, India 🇮🇳",
+  location:   "Jaipur, India",
   education:  "B.Tech + M.Tech CS @ LNMIIT",
-  role:       ["AI Engineer", "Full-Stack Dev", "Quant Nerd"],
-  exploring:  ["LLMs & agents", "intelligent UIs", "market signals"],
-  philosophy: "prototype fast → engineer it right → ship it",
-  currently:  "turning complex info into clear experiences",
-  funFact:    "my contribution graph gets eaten daily 🐍",
+  role:       ["AI Engineer", "Systems Builder", "Full-Stack Dev"],
+  buildsWith: ["Python", "Go", "TypeScript"],
+  interests:  ["AI agents", "distributed systems", "security", "quant"],
+  philosophy: "prototype fast -> engineer it right -> ship it",
+  currently:  "turning complex systems into clear products",
 };
 ```
 
 </td>
 <td width="42%" valign="top">
 
-**⚡ Quick facts**
+**Quick facts**
 
-- 🧠 Building practical **AI products**, not demos
-- 🛠️ Full-stack from **model → API → UI**
-- 📈 Into **quant research** & financial ML
-- 🎨 Obsessed with **motion & clean design**
-- 🤝 Open to **collabs, internships & hackathons**
+- Building practical **AI products**, not demos
+- Writing **distributed systems** from scratch: Raft, schedulers, WALs
+- Full-stack from **model to API to UI**
+- Into **security**, **energy markets** & **quant research**
+- Open to **collabs, internships & hackathons**
 
 </td>
 </tr>
 </table>
 
 <!-- ════════════════════  PROJECTS  ════════════════════ -->
-<h2>〔 selected work 〕</h2>
+<h2>〔 featured builds 〕</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ ClearTrade AI
-GenAI-powered **investment risk & misinformation analysis**. Cuts through market noise and flags what's real.
+### [ForgeMind AI](https://github.com/coolstack-coder/ForgeMind-AI-Autonomous-Software-Engineering-Agent)
+Autonomous software engineering agent. Takes a GitHub issue, maps the repo, **reproduces the bug as a failing test**, localizes the fault (SBFL), patches it, verifies in a sandbox and **opens the PR itself**.
 
-`LLMs` `NLP` `Risk Analysis` `Full-Stack`
-
-<a href="https://github.com/coolstack-coder"><img src="https://img.shields.io/badge/View_Project-ff2e63?style=flat-square&logo=github&logoColor=white"/></a>
+`Python` `LLM Agents` `Claude` `Program Repair` `Sandboxing`
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ Portfolio
-A responsive, **motion-led digital portfolio**: smooth animations, crisp layout, built to feel alive.
+### [NebulaOS](https://github.com/coolstack-coder/NebulaOS-Build-Your-Own-Distributed-Cloud-Operating-System)
+A self-healing distributed cloud orchestrator, basically **mini Kubernetes in Go**. Raft consensus from scratch, custom scheduler, automatic failure recovery, autoscaling and a live React dashboard.
 
-`React` `Animation` `UI/UX` `Responsive`
+`Go` `Raft` `gRPC` `containerd` `Prometheus` `Grafana`
 
-<a href="https://github.com/coolstack-coder"><img src="https://img.shields.io/badge/View_Project-6a3093?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [AegisDB](https://github.com/coolstack-coder/AegisDB)
+Fault-tolerant, sharded, **linearizable key-value database** built from scratch. Raft per shard, consistent hashing, WAL + snapshots. Chaos-tested: **200k+ writes acknowledged, 0 lost**.
+
+`Go` `Raft` `PreVote` `ReadIndex` `WAL` `Chaos Testing`
+
+</td>
+<td width="50%" valign="top">
+
+### [ThreatPulse AI](https://github.com/coolstack-coder/ThreatPulse)
+Real-time cyber threat detection engine. Rules + behavioural analytics + online ML, correlated into **MITRE ATT&CK kill chains**. **100% recall** on 27 attack campaigns at **68k packets/s**.
+
+`Python` `Online ML` `MITRE ATT&CK` `TypeScript` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [GoldenHour](https://github.com/coolstack-coder/GoldenHour_Voice_Agent)
+**Voice first-aid** for the first 60 minutes after an online scam. Talk in Hindi, English or Hinglish; the agent builds your case file, golden-hour countdown, recovery plan and complaint drafts.
+
+`Python` `Voice AI` `Whisper` `ElevenLabs` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### [Wind Watch](https://github.com/coolstack-coder/WW_AN) &nbsp;·&nbsp; [live](https://ww-an.vercel.app)
+Day-ahead **wind forecast intelligence** for GB power procurement. Shows what the forecast says, how far to trust it, and how it actually turned out, before the EPEX gate closes.
+
+`React` `TypeScript` `FastAPI` `pandas` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Ledgerly](https://github.com/coolstack-coder/Personal-Finance-Tracker)
+Personal finance tracker with budgets, savings goals, monthly reports and CSV/PDF export, wrapped in **bouncy 3D animations** and light/dark themes.
+
+`TypeScript` `React` `3D Animation` `Full-Stack`
+
+</td>
+<td width="50%" valign="top">
+
+### [ClearTrade AI](https://github.com/coolstack-coder/GEN-AI-clearTrade-AI)
+GenAI guardian for retail investors. Detects **misinformation and pump-and-dump signals**, scores investment risk and explains safer alternatives through an AI chatbot.
+
+`TypeScript` `Python` `GenAI` `NLP` `FinTech`
 
 </td>
 </tr>
@@ -80,32 +131,43 @@ A responsive, **motion-led digital portfolio**: smooth animations, crisp layout,
 <!-- ════════════════════  SKILLS  ════════════════════ -->
 <h2>〔 tech arsenal 〕</h2>
 
-<p align="center"><b>🤖 AI / ML</b></p>
+<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="ai"/>
+  <img src="https://skillicons.dev/icons?i=python,go,ts,js,cpp,c,html,css&theme=dark" alt="languages"/>
+</p>
+
+<p align="center"><b>AI / ML</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ai"/>
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/LLM_Agents-6a3093?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
-<p align="center"><b>🌐 Full-Stack</b></p>
+<p align="center"><b>Web & Backend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,fastapi,flask&theme=dark" alt="web"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,flask&theme=dark" alt="web"/>
 </p>
 
-<p align="center"><b>🗄️ Data & Cloud</b></p>
+<p align="center"><b>Systems, Data & DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis,docker,aws,vercel&theme=dark" alt="data"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,postgres,mongodb,linux,vercel&theme=dark" alt="systems"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Raft_Consensus-ff2e63?style=flat-square"/>
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/containerd-575757?style=flat-square&logo=containerd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Distributed_Systems-6a3093?style=flat-square"/>
 </p>
 
-<p align="center"><b>🧰 Tools & Languages</b></p>
+<p align="center"><b>Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,git,github,linux,vscode,figma,postman&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,postman&theme=dark" alt="tools"/>
 </p>
 
 <!-- ════════════════════  STATS  ════════════════════ -->
@@ -120,11 +182,10 @@ A responsive, **motion-led digital portfolio**: smooth animations, crisp layout,
   <img src="https://streak-stats.demolab.com?user=coolstack-coder&hide_border=true&background=0d1117&ring=ff2e63&fire=ff2e63&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak"/>
 </p>
 
-
 <!-- ════════════════════  GAME  ════════════════════ -->
 <h2>〔 game.over? 〕</h2>
 
-<p align="center"><i>🐍 A snake is eating my contribution graph. Help me commit faster than it eats.</i></p>
+<p align="center"><i>A snake is eating my contribution graph. Help me commit faster than it eats.</i></p>
 
 <p align="center">
   <picture>
@@ -140,7 +201,7 @@ A responsive, **motion-led digital portfolio**: smooth animations, crisp layout,
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!+%E2%AD%90+a+repo+if+you+like+it;Let's+build+something+intelligent+together." alt="footer typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!+Star+a+repo+if+you+like+it.;Let's+build+something+intelligent+together." alt="footer typing"/>
 </p>
 
 <p align="center">
