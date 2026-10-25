@@ -1,4 +1,4 @@
-<!-- ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê  HEADER  ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê -->
+<!-- ════════════════════  HEADER  ════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a3093,100:ff2e63&height=220&section=header&text=Anmol%20Adwani&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Quant%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 </p>
@@ -15,8 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=coolstack-coder&style=for-the-badge&color=6a3093&label=PROFILE+VIEWS" alt="views"/>
 </p>
 
-<!-- ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê  ABOUT  ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê -->
-<h2>„Äî whoami „Äï</h2>
+<!-- ════════════════════  ABOUT  ════════════════════ -->
+<h2>〔 whoami 〕</h2>
 
 <table>
 <tr>
@@ -24,39 +24,39 @@
 
 ```ts
 const anmol = {
-  location:   "Jaipur, India üáÆüá≥",
+  location:   "Jaipur, India 🇮🇳",
   education:  "B.Tech + M.Tech CS @ LNMIIT",
   role:       ["AI Engineer", "Full-Stack Dev", "Quant Nerd"],
   exploring:  ["LLMs & agents", "intelligent UIs", "market signals"],
-  philosophy: "prototype fast ‚Üí engineer it right ‚Üí ship it",
+  philosophy: "prototype fast → engineer it right → ship it",
   currently:  "turning complex info into clear experiences",
-  funFact:    "my contribution graph gets eaten daily üêç",
+  funFact:    "my contribution graph gets eaten daily 🐍",
 };
 ```
 
 </td>
 <td width="42%" valign="top">
 
-**‚ö° Quick facts**
+**⚡ Quick facts**
 
-- üß† Building practical **AI products**, not demos
-- üõ†Ô∏è Full-stack from **model ‚Üí API ‚Üí UI**
-- üìà Into **quant research** & financial ML
-- üé® Obsessed with **motion & clean design**
-- ü§ù Open to **collabs, internships & hackathons**
+- 🧠 Building practical **AI products**, not demos
+- 🛠️ Full-stack from **model → API → UI**
+- 📈 Into **quant research** & financial ML
+- 🎨 Obsessed with **motion & clean design**
+- 🤝 Open to **collabs, internships & hackathons**
 
 </td>
 </tr>
 </table>
 
-<!-- ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê  PROJECTS  ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê -->
-<h2>„Äî selected work „Äï</h2>
+<!-- ════════════════════  PROJECTS  ════════════════════ -->
+<h2>〔 selected work 〕</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### üõ°Ô∏è ClearTrade AI
+### 🛡️ ClearTrade AI
 GenAI-powered **investment risk & misinformation analysis**. Cuts through market noise and flags what's real.
 
 `LLMs` `NLP` `Risk Analysis` `Full-Stack`
@@ -66,7 +66,7 @@ GenAI-powered **investment risk & misinformation analysis**. Cuts through market
 </td>
 <td width="50%" valign="top">
 
-### ‚ú® Portfolio
+### ✨ Portfolio
 A responsive, **motion-led digital portfolio**: smooth animations, crisp layout, built to feel alive.
 
 `React` `Animation` `UI/UX` `Responsive`
@@ -77,10 +77,10 @@ A responsive, **motion-led digital portfolio**: smooth animations, crisp layout,
 </tr>
 </table>
 
-<!-- ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê  SKILLS  ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê -->
-<h2>„Äî tech arsenal „Äï</h2>
+<!-- ════════════════════  SKILLS  ════════════════════ -->
+<h2>〔 tech arsenal 〕</h2>
 
-<p align="center"><b>ü§ñ AI / ML</b></p>
+<p align="center"><b>🤖 AI / ML</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="ai"/>
 </p>
@@ -93,23 +93,23 @@ A responsive, **motion-led digital portfolio**: smooth animations, crisp layout,
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
-<p align="center"><b>üåê Full-Stack</b></p>
+<p align="center"><b>🌐 Full-Stack</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,fastapi,flask&theme=dark" alt="web"/>
 </p>
 
-<p align="center"><b>üóÑÔ∏è Data & Cloud</b></p>
+<p align="center"><b>🗄️ Data & Cloud</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis,docker,aws,vercel&theme=dark" alt="data"/>
 </p>
 
-<p align="center"><b>üß∞ Tools & Languages</b></p>
+<p align="center"><b>🧰 Tools & Languages</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,git,github,linux,vscode,figma,postman&theme=dark" alt="tools"/>
 </p>
 
-<!-- ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê  STATS  ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê -->
-<h2>„Äî stats.exe „Äï</h2>
+<!-- ════════════════════  STATS  ════════════════════ -->
+<h2>〔 stats.exe 〕</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=coolstack-coder&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff2e63&icon_color=a855f7&text_color=c9d1d9&rank_icon=github&include_all_commits=true" alt="stats"/>
@@ -120,14 +120,11 @@ A responsive, **motion-led digital portfolio**: smooth animations, crisp layout,
   <img src="https://streak-stats.demolab.com?user=coolstack-coder&hide_border=true&background=0d1117&ring=ff2e63&fire=ff2e63&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak"/>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coolstack-coder&bg_color=0d1117&color=c9d1d9&line=ff2e63&point=a855f7&area=true&area_color=6a3093&hide_border=true&custom_title=Commit%20Activity%20%E2%80%94%20last%2030%20days" alt="activity"/>
-</p>
 
-<!-- ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê  GAME  ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê -->
-<h2>„Äî game.over? „Äï</h2>
+<!-- ════════════════════  GAME  ════════════════════ -->
+<h2>〔 game.over? 〕</h2>
 
-<p align="center"><i>üêç A snake is eating my contribution graph. Help me commit faster than it eats.</i></p>
+<p align="center"><i>🐍 A snake is eating my contribution graph. Help me commit faster than it eats.</i></p>
 
 <p align="center">
   <picture>
@@ -137,7 +134,7 @@ A responsive, **motion-led digital portfolio**: smooth animations, crisp layout,
   </picture>
 </p>
 
-<!-- ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê  QUOTE + FOOTER  ‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê‚ïê -->
+<!-- ════════════════════  QUOTE + FOOTER  ════════════════════ -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
 </p>
