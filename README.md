@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anmol-porfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://anmoladwani.xyz"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/anmol-adwani-727ba72a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:anmoladwani100@gmail.com"><img src="https://img.shields.io/badge/Email-FF2E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=coolstack-coder&style=for-the-badge&color=6a3093&label=PROFILE+VIEWS" alt="views"/>
@@ -131,15 +131,10 @@ GenAI guardian for retail investors. Detects **misinformation and pump-and-dump 
 <!-- ════════════════════  SKILLS  ════════════════════ -->
 <h2>〔 tech arsenal 〕</h2>
 
-<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,js,cpp,c,html,css&theme=dark" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=python,go,ts,js,cpp,c,html,css,pytorch,tensorflow,sklearn,opencv,react,nextjs,tailwind,nodejs,express,fastapi,flask,docker,kubernetes,prometheus,grafana,postgres,mongodb,linux,vercel,git,github,githubactions,vscode,figma,postman&theme=dark&perline=11" alt="tech arsenal"/>
 </p>
 
-<p align="center"><b>AI / ML</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ai"/>
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/LLM_Agents-6a3093?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
@@ -147,28 +142,12 @@ GenAI guardian for retail investors. Detects **misinformation and pump-and-dump 
   <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
-
-<p align="center"><b>Web & Backend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,flask&theme=dark" alt="web"/>
-</p>
-
-<p align="center"><b>Systems, Data & DevOps</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,postgres,mongodb,linux,vercel&theme=dark" alt="systems"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Raft_Consensus-ff2e63?style=flat-square"/>
   <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white"/>
   <img src="https://img.shields.io/badge/containerd-575757?style=flat-square&logo=containerd&logoColor=white"/>
   <img src="https://img.shields.io/badge/Distributed_Systems-6a3093?style=flat-square"/>
 </p>
 
-<p align="center"><b>Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,postman&theme=dark" alt="tools"/>
-</p>
 
 <!-- ════════════════════  STATS  ════════════════════ -->
 <h2>〔 stats.exe 〕</h2>
