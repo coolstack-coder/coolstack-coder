@@ -153,11 +153,6 @@ GenAI guardian for retail investors. Detects **misinformation and pump-and-dump 
 <h2>〔 stats.exe 〕</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=coolstack-coder&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff2e63&icon_color=a855f7&text_color=c9d1d9&rank_icon=github&include_all_commits=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolstack-coder&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2e63&text_color=c9d1d9&langs_count=8" alt="langs"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=coolstack-coder&hide_border=true&background=0d1117&ring=ff2e63&fire=ff2e63&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak"/>
 </p>
 
